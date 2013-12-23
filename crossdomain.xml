@@ -1,6 +1,4 @@
-<?xml version="1.0"?>
-<!-- http://www.youtube.com/crossdomain.xml -->
-<!DOCTYPE cross-domain-policy SYSTEM "http://www.macromedia.com/xml/dtds/cross-domain-policy.dtd">
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <cross-domain-policy>
-  <allow-access-from domain="estevaolucas.github.io" />
+<allow-access-from domain="*"/>
 </cross-domain-policy>
